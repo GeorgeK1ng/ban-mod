@@ -1,0 +1,15 @@
+{
+	"core:creatureGeneratorCommon" : {
+
+		"types" : {
+			"trainingGrounds" :  null,
+			"portalOfGlory" :    null,
+			"griffinTower" :     null,
+			"monastery" :       null,
+			"guardhouse" :       null,
+			"archersTower" :     null,
+			"barracks" :         null,
+		}
+	}
+
+}

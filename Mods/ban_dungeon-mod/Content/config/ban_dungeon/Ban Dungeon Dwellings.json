@@ -1,0 +1,14 @@
+{
+	"core:creatureGeneratorCommon" : {
+
+		"types" : {
+			"pillarOfEyes" :     null,
+			"harpyLoft" :        null,
+			"manticoreLair" :    null,
+			"medusaChapel" :     null,
+			"labyrinth" :       null,
+			"dragonCave" :       null,
+			"warren" :           null,
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"core:creatureGeneratorCommon" : {
+
+		"types" : {
+			"hallOfDarkness" :   null,
+			"dragonVault" :      null,
+			"tombOfSouls" :     null,
+			"mausoleum" :        null,
+			"estate" :           null,
+			"cursedTemple" :     null,
+			"graveyard" :        null,
+		}
+	}
+}

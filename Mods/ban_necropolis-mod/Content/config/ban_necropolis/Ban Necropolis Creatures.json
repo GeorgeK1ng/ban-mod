@@ -1,0 +1,71 @@
+{
+"core:skeleton":
+{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:skeletonWarrior":
+{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:walkingDead":
+{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:zombieLord":
+{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:wight":	
+{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:wraith":{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:vampire" :{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:vampireLord":{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:lich":{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:powerLich":{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:blackKnight":{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:dreadKnight":{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:boneDragon":{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:ghostDragon":{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:mummy":{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"wog:bloodDragon":{
+"faction":"neutral",
+"special":true, "disabled":true
+}
+}

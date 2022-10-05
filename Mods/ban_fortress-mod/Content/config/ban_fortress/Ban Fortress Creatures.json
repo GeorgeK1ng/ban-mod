@@ -1,0 +1,67 @@
+{
+"core:gnoll":
+{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:gnollMarauder":
+{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:lizardman":
+{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:lizardWarrior":
+{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:serpentFly":	
+{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:fireDragonFly":{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:basilisk" :{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:greaterBasilisk":{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:gorgon":{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:mightyGorgon":{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:wyvern" :{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:wyvernMonarch":{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:hydra":{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:chaosHydra":{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"wog:hellHydra":{
+"faction":"neutral",
+"special":true, "disabled":true
+}
+}

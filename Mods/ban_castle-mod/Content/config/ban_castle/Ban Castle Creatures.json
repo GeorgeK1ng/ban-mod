@@ -1,0 +1,67 @@
+{
+"core:pikeman":
+{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:halberdier":
+{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:archer":
+{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:marksman":
+{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:griffin":	
+{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:royalGriffin":{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:swordsman":{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:crusader":{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:monk":{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:zealot":{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:cavalier":{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:champion":{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:angel":{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:archangel":{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"wog:supremeArchangel":{
+"faction":"neutral",
+"special":true, "disabled":true
+}
+}

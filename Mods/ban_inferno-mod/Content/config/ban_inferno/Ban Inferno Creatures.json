@@ -1,0 +1,67 @@
+{
+"core:imp":
+{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:familiar" :
+{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:gog":
+{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:magog":
+{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:hellHound":	
+{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:cerberus":{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:demon":{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:hornedDemon":{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:pitFiend":{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:pitLord":{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:efreet":{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:efreetSultan":{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:devil":{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:archDevil":{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"wog:hellBaron":{
+"faction":"neutral",
+"special":true, "disabled":true
+}
+}

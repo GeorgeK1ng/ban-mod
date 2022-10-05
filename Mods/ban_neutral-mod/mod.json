@@ -1,0 +1,24 @@
+{
+	"name" : "Ban Neutral Creatures - Mod",
+	"description" : "Ban Neutral Creatures - Mod",
+"version":"0.0.1",
+"author":"Noname",
+"contact":"none",
+"modType":"Town",
+	"depends" :
+	[
+
+	],
+
+"creatures" :
+	[
+"config/ban_neutral/Ban Neutral Creatures.json",
+
+	],
+
+		"objects":
+		[
+"config/ban_neutral/Ban Neutral Dwellings.json",
+"config/ban_neutral/Ban Neutral Banks.json"	
+		]
+}

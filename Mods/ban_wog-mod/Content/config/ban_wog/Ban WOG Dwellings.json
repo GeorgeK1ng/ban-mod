@@ -1,0 +1,31 @@
+{
+	"core:creatureGeneratorCommon" : {
+		"types" : {
+			"supremeArchangel" : null,
+			"diamondDragon" : null,
+			"lordofThunder" : null,
+			"hellBaron" : null,
+			"bloodDragon" : null,
+
+			"darknessDragon" : null,
+			"ghostBehemoth" : null,
+			"hellHydra" : null,
+			"sacredPhoenix" : null,
+			"lavaSharpshooter" : null,
+
+			"arcticSharpshooter" : null,
+			"gorynych" : null,
+			"nightmare" : null,
+			"minotaurKing2" : null,
+			"warZealot" : null,
+
+			"santaGremlin" : null,
+			"sylvanCentaur" : null,
+			"sorceress" : null,
+			"werewolf" : null,
+			"hellSteed" : null,
+			
+			"dracolich" : null
+		}
+	}
+}

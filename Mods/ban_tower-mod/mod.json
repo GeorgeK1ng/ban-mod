@@ -1,0 +1,35 @@
+{
+	"name" : "Ban Tower - Mod",
+	"description" : "Ban Tower - Mod",
+"version":"0.0.1",
+"author":"Noname",
+"contact":"none",
+"modType":"Town",
+	"depends" :
+	[
+
+	],
+	"factions" :
+	[
+"config/ban_tower/ban Tower Town.json",
+
+	],
+"creatures" :
+	[
+"config/ban_tower/Ban Tower Creatures.json",
+
+	],
+"heroClasses" :
+	[
+	],
+	"heroes" :
+	[
+"config/ban_tower/Ban Tower Heroes.json",
+
+        ],
+		"objects":
+		[
+"config/ban_tower/Ban Tower Dwellings.json",
+"config/ban_tower/Ban Tower Banks.json"	
+		]
+}

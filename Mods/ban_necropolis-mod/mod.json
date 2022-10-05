@@ -1,0 +1,35 @@
+{
+	"name" : "Ban Necropolis - Mod",
+	"description" : "Ban Necropolis - Mod",
+"version":"0.0.1",
+"author":"Noname",
+"contact":"none",
+"modType":"Town",
+	"depends" :
+	[
+
+	],
+	"factions" :
+	[
+"config/ban_necropolis/ban Necropolis Town.json",
+
+	],
+"creatures" :
+	[
+"config/ban_necropolis/Ban Necropolis Creatures.json",
+
+	],
+"heroClasses" :
+	[
+	],
+	"heroes" :
+	[
+"config/ban_necropolis/Ban Necropolis Heroes.json",
+
+        ],
+		"objects":
+		[
+"config/ban_necropolis/Ban Necropolis Dwellings.json",
+"config/ban_necropolis/Ban Necropolis Banks.json"	
+		]
+}

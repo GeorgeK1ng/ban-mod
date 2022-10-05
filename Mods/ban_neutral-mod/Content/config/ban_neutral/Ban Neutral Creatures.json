@@ -1,0 +1,93 @@
+{
+	"core:goldGolem" :
+	{
+		//"special":true, 
+		"disabled":true,
+		"faction": "castle"
+	},
+	"core:diamondGolem" :
+	{
+		//"special":true, 
+		"disabled":true,
+		"faction": "castle"
+	},
+	"core:azureDragon" : 
+	{
+		"special":true, 
+		"disabled":true,
+		"faction": "castle",
+		"level":7
+	},
+	"core:crystalDragon" :
+	{
+		//"special":true, 
+		"disabled":true,
+		"faction": "castle"
+	},
+	"core:fairieDragon" :
+	{
+		//"special":true, 
+		"disabled":true,
+		"faction": "castle"
+	},
+	"core:rustDragon" :
+	{
+		//"special":true, 
+		"disabled":true,
+		"faction": "castle"
+	},
+	"core:enchanter" :
+	{
+		//"special":true, 
+		"disabled":true,
+		"faction": "castle"
+	},
+	"core:sharpshooter" :
+	{
+		//"special":true, 
+		"disabled":true,
+		"faction": "castle"
+	},
+	"core:halfling" :
+	{
+		//"special":true, 
+		"disabled":true,
+		"faction": "castle"
+	},
+	"core:peasant" :
+	{
+		//"special":true, 
+		//"disabled":true,
+		//"faction": "castle"
+	},
+	"core:boar" :
+	{
+		//"special":true, 
+		"disabled":true,
+		"faction": "castle"
+	},
+	"core:mummy" :
+	{
+		//"special":true, 
+		"disabled":true,
+		"faction": "castle"
+	},
+	"core:nomad" :
+	{
+		//"special":true, 
+		"disabled":true,
+		"faction": "castle"
+	},
+	"core:rogue" :
+	{
+		//"special":true, 
+		"disabled":true,
+		"faction": "castle"
+	},
+	"core:troll" :
+	{
+		//"special":true, 
+		"disabled":true,
+		"faction": "castle"
+	}
+}

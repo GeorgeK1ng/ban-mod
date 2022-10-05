@@ -1,0 +1,67 @@
+{
+"core:troglodyte":
+{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:infernalTroglodyte":
+{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:harpy":
+{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:harpyHag":
+{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:beholder":	
+{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:evilEye":{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:medusa" :{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:medusaQueen":{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:minotaur":{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:minotaurKing":{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:manticore" :{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:scorpicore":{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:redDragon":{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"core:blackDragon":{
+"faction":"neutral",
+"special":true, "disabled":true
+},
+"wog:darknessDragon":{
+"faction":"neutral",
+"special":true, "disabled":true
+}
+}

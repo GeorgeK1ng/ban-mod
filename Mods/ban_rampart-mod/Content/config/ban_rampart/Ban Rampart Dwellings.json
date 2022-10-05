@@ -1,0 +1,15 @@
+{
+	"core:creatureGeneratorCommon" : {
+
+		"types" : {
+			"centaurStables" :   null,
+			"dwarfCottage" :    null,
+			"homestead" :        null,
+			"dragonCliffs" :     null,
+			"dendroidArches" :   null,
+			"enchantedSpring" : null,
+			"unicornGladeBig" :  null,
+			"unicornGlade" :     null,
+		}
+	}
+}

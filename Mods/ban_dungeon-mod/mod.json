@@ -1,0 +1,35 @@
+{
+	"name" : "Ban Dungeon - Mod",
+	"description" : "Ban Dungeon - Mod",
+"version":"0.0.1",
+"author":"Noname",
+"contact":"none",
+"modType":"Town",
+	"depends" :
+	[
+
+	],
+	"factions" :
+	[
+"config/ban_Dungeon/ban Dungeon Town.json",
+
+	],
+"creatures" :
+	[
+"config/ban_Dungeon/Ban Dungeon Creatures.json",
+
+	],
+"heroClasses" :
+	[
+	],
+	"heroes" :
+	[
+"config/ban_Dungeon/Ban Dungeon Heroes.json",
+
+        ],
+		"objects":
+		[
+"config/ban_Dungeon/Ban Dungeon Dwellings.json",
+"config/ban_Dungeon/Ban Dungeon Banks.json"	
+		]
+}

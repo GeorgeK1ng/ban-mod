@@ -1,0 +1,16 @@
+{
+	"core:creatureBank" : {
+		"types" : {
+			"huntingLodge" : null,
+			"snowGrotto" : null,
+			"martialSpiritPalace" : null,
+			"pacificationCitadel" : null,
+			"magiciansMonastery" : null,
+			"legendsLibrary" : null,
+			"transylvanianTavern" : null,
+			"homeofthebat" : null,
+			"lostBottle" : null,
+			"grotto" : null
+		}
+	}
+}

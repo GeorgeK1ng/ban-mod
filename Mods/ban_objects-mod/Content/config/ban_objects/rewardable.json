@@ -1,279 +1,152 @@
 {
-	/// These are objects that covered by concept of "configurable object"
-	/// Most or even all of their configuration located in this file
-"core:magicSpring" : {//magic source
- 
+	// These are objects that covered by concept of "configurable object"
+	// Most or even all of their configuration located in this file
+	"core:magicSpring" : {
 		"types" : {
-			"magicSpring":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"magicSpring": { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
-
-"core:mysticalGarden" : {
- 
+	"core:mysticalGarden" : {
 		"types" : {
-			"mysticalGarden":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"mysticalGarden": { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
-"core:windmill" :{
- 
+	"core:windmill" : {
 		"types" : {
-			"windmill":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"windmill": { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
-"core:waterWheel" : {
- 
+	"core:waterWheel" : {
 		"types" : {
-			"waterWheel" :{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"waterWheel" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
-	
-"core:leanTo" :{
- 
+	"core:leanTo" : {
 		"types" : {
-			"leanTo":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"leanTo": { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
-"core:corpse" :{
- 
+	"core:corpse" : {
 		"types" : {
-			"corpse":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"corpse": { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
-"core:wagon" :{
- 
+	"core:wagon" : {
 		"types" : {
-			"wagon":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"wagon": { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
-"core:warriorTomb" : {
- 
+	"core:warriorTomb" : {
 		"types" : {
-			"warriorTomb" :{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"warriorTomb" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
-
-	// "campfire" :{
- 
-		// "types" : {
-			// "object" : {
-				// "index" : 0,
-				// "aiValue" : 2000,
-				// "rmg" : {
-					// "value"		: 2000,
-					// "rarity"	: 500
-				// }
-			// }
-		// }
-	// },
-	// "flotsam" :{
-		// "index" : 29,
-		// "handler" : "pickable",
-		// "base" : {
-			// "sounds" : {
-				// "visit" : ["GENIE"],
-				// "removal" : [ "PICKUP01", "PICKUP02", "PICKUP03", "PICKUP04", "PICKUP05", "PICKUP06", "PICKUP07" ]
-			// }
-		// },
-		// "types" : {
-			// "object" : {
-				// "index" : 0,
-				// "aiValue" : 2000,
-				// "rmg" : {
-					// "value"		: 2000,
-					// "rarity"	: 100
-				// }
-			// }
-		// }
-	// },
-	// "seaChest" :{
-		// "index" : 82,
-		// "handler" : "pickable",
-		// "base" : {
-			// "sounds" : {
-				// "visit" : ["CHEST"],
-				// "removal" : [ "PICKUP01", "PICKUP02", "PICKUP03", "PICKUP04", "PICKUP05", "PICKUP06", "PICKUP07" ]
-			// }
-		// },
-		// "types" : {
-			// "object" : {
-				// "index" : 0,
-				// "aiValue" : 1500,
-				// "rmg" : {
-					// "value"		: 1500,
-					// "rarity"	: 500
-				// }
-			// }
-		// }
-	// },
-	// "shipwreckSurvivor" : {
-		// "index" : 86,
-		// "handler" : "pickable",
-		// "base" : {
-			// "sounds" : {
-				// "visit" : ["TREASURE"],
-				// "removal" : [ "PICKUP01", "PICKUP02", "PICKUP03", "PICKUP04", "PICKUP05", "PICKUP06", "PICKUP07" ]
-			// }
-		// },
-		// "types" : {
-			// "object" : {
-				// "index" : 0,
-				// "aiValue" : 1500,
-				// "rmg" : {
-					// "value"		: 1500,
-					// "rarity"	: 50
-				// }
-			// }
-		// }
-	// },
-	 "core:treasureChest" : {
-				"types" : {
-			"treasureChest":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
-		}
-	 },
-
-"core:arena" : {
- 
+	"core:treasureChest" : {
 		"types" : {
-			"arena":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"treasureChest": { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
-"core:marlettoTower" : {
- 
+	"core:arena" : {
 		"types" : {
-			"marlettoTower":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"arena": { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
-"core:gardenOfRevelation" : {
- 
+	"core:marlettoTower" : {
 		"types" : {
-			"gardenOfRevelation":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"marlettoTower": { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
-"core:libraryOfEnlightenment" : {
- 
+	"core:gardenOfRevelation" : {
 		"types" : {
-			"libraryOfEnlightenment":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"gardenOfRevelation": { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
-"core:mercenaryCamp" : {
- 
+	"core:libraryOfEnlightenment" : {
 		"types" : {
-			"mercenaryCamp":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"libraryOfEnlightenment": { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
-"core:starAxis" :{
- 
+	"core:mercenaryCamp" : {
 		"types" : {
-			"starAxis":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"mercenaryCamp": { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
-"core:treeOfKnowledge" : {
- 
+	"core:starAxis" : {
 		"types" : {
-			"treeOfKnowledge":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"starAxis": { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
-"core:schoolOfMagic" : {
- 
+	"core:treeOfKnowledge" : {
 		"types" : {
-			"schoolOfMagic":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"treeOfKnowledge": { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
-"core:schoolOfWar" : {
- 
+	"core:schoolOfMagic" : {
 		"types" : {
-			"schoolOfWar":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"schoolOfMagic": { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
-"core:learningStone" : {
- 
+	"core:schoolOfWar" : {
 		"types" : {
-			"learningStone":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"schoolOfWar": { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
-
-	 //"core:buoy" : {
-		// "index" : 11,
-		// "handler" : "bonusingObject",
-		// "base" : {
-			// "sounds" : {
-				// "ambient" : ["LOOPBUOY"],
-				// "visit" : ["MORALE"]
-			// }
-		// },
-		 //"types" : {
-			 //"buoy" : {
-				// "index" : 0,
-				// "aiValue" : 100,
-				// "rmg" : {
-					// "value"		: 100,
-					// "rarity"	: 100
-				// }
-			// }
-		// }
-	// },
-"core:swanPond" : {
- 
+	"core:learningStone" : {
 		"types" : {
-			"swanPond":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"learningStone": { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
-"core:faerieRing" : {
- 
+	"core:swanPond" : {
 		"types" : {
-			"faerieRing":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"swanPond": { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
-"core:fountainOfFortune" : {
- 
+	"core:faerieRing" : {
 		"types" : {
-			"fountainOfFortune":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"faerieRing": { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
-"core:fountainOfYouth" : {
- 
+	"core:fountainOfFortune" : {
 		"types" : {
-			"fountainOfYouth":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"fountainOfFortune": { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
-"core:idolOfFortune" : {
- 
+	"core:fountainOfYouth" : {
 		"types" : {
-			"idolOfFortune":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"fountainOfYouth": { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
-"core:mermaids" : {
- 
+	"core:idolOfFortune" : {
 		"types" : {
-			"mermaids" :{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"idolOfFortune": { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
-"core:oasis" : {
- 
+	"core:mermaids" : {
 		"types" : {
-			"oasis":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"mermaids" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
-"core:stables" : {
- 
+	"core:oasis" : {
 		"types" : {
-			"stables":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"oasis": { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
-"core:temple" : {
- 
+	"core:stables" : {
 		"types" : {
-			"temple":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"stables": { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
-"core:rallyFlag" : {
- 
+	"core:temple" : {
 		"types" : {
-			"rallyFlag":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"temple": { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
+	"core:rallyFlag" : {
+		"types" : {
+			"rallyFlag": { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
+		}
+	}
 	// "wateringHole" : {//waters
- 
 		// "types" : {
 			// "object" : {
 				// "index" : 0,
@@ -286,4 +159,64 @@
 			// } 
 		// }
 	// }
+		// "campfire" : {
+		// "types" : {
+			// "object" : {
+				// "index" : 0,
+				// "aiValue" : 2000,
+				// "rmg" : {
+					// "value"		: 2000,
+					// "rarity"	: 500
+				// }
+			// }
+		// }
+	// },
+	// "flotsam" : {
+		// "types" : {
+			// "object" : {
+				// "index" : 0,
+				// "aiValue" : 2000,
+				// "rmg" : {
+					// "value"		: 2000,
+					// "rarity"	: 100
+				// }
+			// }
+		// }
+	// },
+	// "seaChest" : {
+		// "types" : {
+			// "object" : {
+				// "index" : 0,
+				// "aiValue" : 1500,
+				// "rmg" : {
+					// "value"		: 1500,
+					// "rarity"	: 500
+				// }
+			// }
+		// }
+	// },
+	// "shipwreckSurvivor" : {
+		// "types" : {
+			// "object" : {
+				// "index" : 0,
+				// "aiValue" : 1500,
+				// "rmg" : {
+					// "value"		: 1500,
+					// "rarity"	: 50
+				// }
+			// }
+		// }
+	// },
+		 //"core:buoy" : {
+		 //"types" : {
+			 //"buoy" : {
+				// "index" : 0,
+				// "aiValue" : 100,
+				// "rmg" : {
+					// "value"		: 100,
+					// "rarity"	: 100
+				// }
+			// }
+		// }
+	// },
 }

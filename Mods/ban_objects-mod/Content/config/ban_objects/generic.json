@@ -1,221 +1,188 @@
 {
-	/// These are objects that can not be configured, either due to
-	/// their hardcoded status or because they don't have any configurable functionality
-"core:prison" : {
+	// These are objects that can not be configured, either due to
+	// their hardcoded status or because they don't have any configurable functionality
+	"core:prison" : {
 		"types" : {
-			"prison":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"prison" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
-
-"core:altarOfSacrifice" : {
+	"core:altarOfSacrifice" : {
 		"types" : {
-			"object":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"object" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
-"core:tradingPost" : {
+	"core:tradingPost" : {
 		"types" : {
-			"object":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"object" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
-"core:tradingPostDUPLICATE"		: {
+	"core:tradingPostDUPLICATE" : {
 		"types" : {
-			"object":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"object" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
-"core:freelancersGuild" : {
+	"core:freelancersGuild" : {
 		"types" : {
-			"object":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"object" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
-
-"core:blackMarket" : {
+	"core:blackMarket" : {
 		"types" : {
-			"object":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"object" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
-
-"core:pandoraBox" : {
+	"core:pandoraBox" : {
 		"types" : {
-			"object":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"object" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
- 
-"core:redwoodObservatory" : {
+	"core:redwoodObservatory" : {
 		"types" : {
-			"redwoodObservatory":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"redwoodObservatory" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
-"core:pillarOfFire" : {
+	"core:pillarOfFire" : {
 		"types" : {
-			"pillarOfFire":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"pillarOfFire" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
-"core:coverOfDarkness" : {
+	"core:coverOfDarkness" : {
 		"types" : {
-			"coverOfDarkness":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"coverOfDarkness" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
-
-	// "whirlpool" : {
-		// "index" :111,
-		// "handler" : "whirlpool",
-		// "base" : {
-			// "sounds" : {
-				// "ambient" : ["LOOPWHIRL"],
-				// "visit" : ["DANGER"]
-			// }
-		// },
-		// "types" : {
-			// "object" : {
-				// "index" : 0,
-				// "rmg" : {
-				// }
-			// }
-		// }
-	// },
-"core:subterraneanGate" : {
+	"core:subterraneanGate" : {
 		"types" : {
 			"object":{
 				//"rmg":{"zoneLimit" : 0,"mapLimit" : 0},
 				"templates":null }
 		}
 	},
-
-"core:refugeeCamp" : {
+	"core:refugeeCamp" : {
 		"types" : {
-			"object":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"object" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
-"core:warMachineFactory" : {
+	"core:warMachineFactory" : {
 		"types" : {
-			"object":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"object" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
-"core:shrineOfMagicLevel1" : {
+	"core:shrineOfMagicLevel1" : {
 		"types" : {
-			"core:shrineOfMagicLevel1":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"core:shrineOfMagicLevel1" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
-"core:shrineOfMagicLevel2" : {//gesture
+	"core:shrineOfMagicLevel2" : {
 		"types" : {
-			"core:shrineOfMagicLevel2":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"core:shrineOfMagicLevel2" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
-"core:shrineOfMagicLevel3" : {//thinking
+	"core:shrineOfMagicLevel3" : {
 		"types" : {
-			"core:shrineOfMagicLevel3":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"core:shrineOfMagicLevel3" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
-"core:eyeOfTheMagi" : {
+	"core:eyeOfTheMagi" : {
 		"types" : {
-			"object":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"object" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
-"core:hutOfTheMagi" : {
+	"core:hutOfTheMagi" : {
 		"types" : {
-			"object":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"object" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
-"core:lighthouse" : {
+	"core:lighthouse" : {
 		"types" : {
-			"object":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"object" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
-// "core:obelisk" : {
-		// "types" : {
-			// "object":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
-		// }
-	// },
-// "core:oceanBottle" : {
-		// "index" :59,
-		// "handler" : "sign",
-		// "base" : {
-			// "sounds" : {
-				// "visit" : ["STORE"]
-			// }
-		// },
-		// "types" : {
-			// "object" : {
-				// "index" : 0,
-				// "aiValue" : 0,
-				// "rmg" : {
-				// }
-			// }
-		// }
-	// },
-	 "core:scholar" : {
-		// "index" :81,
-		// "handler" : "scholar",
-		// "base" : {
-			// "sounds" : {
-				// "visit" : ["GAZEBO"],
-				// "removal" : [ "PICKUP01", "PICKUP02", "PICKUP03", "PICKUP04", "PICKUP05", "PICKUP06", "PICKUP07" ]
-			// }
-		// },
-		 "types" : {
-			 "scholar":{//"rmg":{"zoneLimit" : 0,"mapLimit" : 0},
-			 "templates":null
+	"core:scholar" : {
+		"types" : {
+			"scholar" : {//"rmg":{"zoneLimit" : 0,"mapLimit" : 0},
+				"templates":null
 			}
-		 }
-	 },
-"core:shipyard" : {
-		"types" : {
-			"object":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
 		}
 	},
-"core:sign" : {
+	"core:shipyard" : {
 		"types" : {
-			"object":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"object" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
-"core:sirens" : {
+	"core:sign" : {
 		"types" : {
-			"object":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"object" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
-"core:denOfThieves" : {
+	"core:sirens" : {
 		"types" : {
-			"object":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"object" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
-"core:university" : {
+	"core:denOfThieves" : {
 		"types" : {
-			"object":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"object" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
-"core:witchHut" : {
+	"core:university" : {
 		"types" : {
-			"witchHut":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"object" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
-"core:questGuard" : {
+	"core:witchHut" : {
 		"types" : {
-			"object":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"witchHut" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
-"core:magicWell" : {
+	"core:questGuard" : {
 		"types" : {
-			"magicWell":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"object" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
-
- 
-
+	"core:magicWell" : {
+		"types" : {
+			"magicWell" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
+		}
+	},
 	/// Classes without dedicated object
-"core:hillFort" : {
+	"core:hillFort" : {
 		"types" : {
-			"object":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"object" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
- 
-"core:tavern" : {
+	"core:tavern" : {
 		"types" : {
-			"object":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"object" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
-"core:sanctuary" : {
+	"core:sanctuary" : {
 		"types" : {
-			"object":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+			"object" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
-	} 
+	}
+	// "core:obelisk" : {
+	// 	"types" : {
+	// 		"object" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
+	// 	}
+	// },
+	// "core:oceanBottle" : {
+	// 	"types" : {
+	// 		"object" : {
+	// 			"index" : 0,
+	// 			"aiValue" : 0,
+	// 			"rmg" : {
+	// 			}
+	// 		}
+	// 	}
+	// },
+	// "whirlpool" : {
+	// 	"types" : {
+	// 		"object" : {
+	// 			"index" : 0,
+	// 			"rmg" : {
+	// 			}
+	// 		}
+	// 	}
+	// },
 }

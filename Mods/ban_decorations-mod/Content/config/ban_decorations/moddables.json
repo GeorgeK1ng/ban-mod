@@ -164,7 +164,7 @@
 				"actualAnimation" : "AB03_.def",
 				"overlayAnimation" : "ABM03_.def",
 				"flagAnimations" : ["ABF03L", "ABF03G", "ABF03R", "ABF03D", "ABF03B", "ABF03P", "ABF03W", "ABF03K"]
-			},
+			}
 		}
 	},
 
@@ -524,7 +524,7 @@
 				"objectDungeon"    : { "index" : 5},
 				"objectStronghold" : { "index" : 6},
 				"objectFortress"   : { "index" : 7},
-				"objectConflux"     : { "index" : 8},
+				"objectConflux"     : { "index" : 8}
 			}
 	},
 

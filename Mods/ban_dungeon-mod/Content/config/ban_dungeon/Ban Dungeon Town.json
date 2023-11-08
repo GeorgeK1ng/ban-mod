@@ -1,6 +1,5 @@
 {
-	"core:dungeon" :
-	{
-	"town" : null
-                         }
+	"core:dungeon" : {
+		"town" : null
+	}
 }

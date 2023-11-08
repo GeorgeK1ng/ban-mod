@@ -1,17 +1,12 @@
 {
 	"name" : "Ban Things Mod",
 	"description" : "Ban Things Mod allows to remove standard dwellings, towns and creatures from random maps.",
-"version":"0.0.2",
-"author":"Macron1",
-"contact":"none",
-"modType":"Town",
-	"depends" :
+	"modType" : "Town",
+	"author" : "Macron1",
+	"contact" : "none",
+	"version" : "0.0.2",
+	"conflicts" :
 	[
-
-	],
-	"conflicts":
-	[
-	"tidesOfWar"
+		"tidesOfWar"
 	]
-
 }

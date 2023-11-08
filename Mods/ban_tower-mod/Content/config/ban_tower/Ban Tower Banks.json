@@ -1,8 +1,7 @@
 {
 	"core:creatureBank" : {
-
 		"types" : {
-			"nagaBank" : null,
-}
-}
+			"nagaBank" : null
+		}
+	}
 }

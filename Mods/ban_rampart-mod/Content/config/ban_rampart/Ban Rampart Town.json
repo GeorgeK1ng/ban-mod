@@ -1,6 +1,5 @@
 {
-	"core:rampart" :
-	{
-	"town" : null
-                         }
+	"core:rampart" : {
+		"town" : null
+	}
 }

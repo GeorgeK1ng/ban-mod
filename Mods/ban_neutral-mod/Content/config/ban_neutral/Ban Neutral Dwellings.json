@@ -1,25 +1,23 @@
 {
 	"core:creatureGeneratorCommon" : {
-
 		"types" : {
-			"frozenCliffs" :     null,
-			"crystalCavern" :    null,
-			"magicForest" :     null,
-			"sulfurousLair" :    null,
+			"frozenCliffs" : null,
+			"crystalCavern" : null,
+			"magicForest" : null,
+			"sulfurousLair" : null,
 			"enchantersHollow" : null,
-			"treetopTower" :     null,
-			"thatchedHut" :     null,
-			"hovel" :         null,
-			"boarGlen" :        null,
-			"tombOfCurses" :   null,
-			"nomadTent" :       null,
-			"rogueCavern" :      null,
-			"trollBridge" :      null
+			"treetopTower" : null,
+			"thatchedHut" : null,
+			"hovel" : null,
+			"boarGlen" : null,
+			"tombOfCurses" : null,
+			"nomadTent" : null,
+			"rogueCavern" : null,
+			"trollBridge" : null
 		}
 	},
 	// subtype: unique special dwellings - golem factory and elemental conflux
 	"core:creatureGeneratorSpecial" : {
-
 		"types" : {
 			"golemFactory" : null
 		}

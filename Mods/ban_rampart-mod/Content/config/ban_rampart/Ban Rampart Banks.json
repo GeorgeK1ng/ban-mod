@@ -1,15 +1,12 @@
 {
 	"core:creatureBank" : {
-
 		"types" : {
 			"dwarvenTreasury" : null
 		}
-},
-
-"core:dragonUtopia" :  
-{
-	"types":{
-	"dragonUtopia" : null
+	},
+	"core:dragonUtopia" : {
+		"types" : {
+			"dragonUtopia" : null
+		}
 	}
-}
 }

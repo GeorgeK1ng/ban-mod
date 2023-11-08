@@ -1,6 +1,5 @@
 {
-	"core:tower" :
-	{
-	"town" : null
-                         }
+	"core:tower" : {
+		"town" : null
+	}
 }

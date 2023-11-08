@@ -1,18 +1,16 @@
 {
 	"core:creatureGeneratorCommon" : {
-
 		"types" : {
-			"parapet" :          null,
-			"altarOfWishes" :    null,
-			"mageTower" :       null,
-			"goldenPavilion" :   null,
-			"workshop" :         null,
-			"cloudTemple" :      null,
+			"parapet" : null,
+			"altarOfWishes" : null,
+			"mageTower" : null,
+			"goldenPavilion" : null,
+			"workshop" : null,
+			"cloudTemple" : null
 		}
 	},
 	// subtype: unique special dwellings - golem factory and elemental conflux
 	"core:creatureGeneratorSpecial" : {
-
 		"types" : {
 			"golemFactory" : null
 		}

@@ -1,8 +1,7 @@
 {
-"core:pyramid" :  
-{
-	"types":{
-	"pyramid" : null
+	"core:pyramid" : {
+		"types" : {
+			"pyramid" : null
+		}
 	}
-}
 }

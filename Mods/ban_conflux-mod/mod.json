@@ -1,35 +1,25 @@
 {
 	"name" : "Ban Conflux - Mod",
 	"description" : "Ban Conflux - Mod",
-"version":"0.0.1",
-"author":"Noname",
-"contact":"none",
-"modType":"Town",
-	"depends" :
-	[
-
-	],
+	"modType" : "Town",
+	"author" : "Noname",
+	"contact" : "none",
+	"version" : "0.0.1",
 	"factions" :
 	[
-"config/ban_conflux/ban Conflux Town.json",
-
+		"config/ban_conflux/ban Conflux Town.json"
 	],
-"creatures" :
+	"creatures" :
 	[
-"config/ban_conflux/Ban Conflux Creatures.json",
-
-	],
-"heroClasses" :
-	[
+		"config/ban_conflux/Ban Conflux Creatures.json"
 	],
 	"heroes" :
 	[
-"config/ban_conflux/Ban Conflux Heroes.json",
-
-        ],
-		"objects":
-		[
-"config/ban_conflux/Ban Conflux Dwellings.json",
-"config/ban_conflux/Ban Conflux Banks.json"	
-		]
+		"config/ban_conflux/Ban Conflux Heroes.json"
+	],
+	"objects" :
+	[
+		"config/ban_conflux/Ban Conflux Dwellings.json",
+		"config/ban_conflux/Ban Conflux Banks.json"
+	]
 }

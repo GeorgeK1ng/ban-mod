@@ -1,67 +1,72 @@
 {
-"core:goblin":
-{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"core:hobgoblin":
-{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"core:goblinWolfRider":
-{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"core:hobgoblinWolfRider":
-{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"core:orc":	
-{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"core:orcChieftain":{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"core:ogre" :{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"core:ogreMage":{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"core:roc":{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"core:thunderbird":{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"core:cyclop":{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"core:cyclopKing":{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"core:behemoth":{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"core:ancientBehemoth":{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"wog:ghostBehemoth":{
-"faction":"neutral",
-"special":true, "disabled":true
-}
+	"core:goblin" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	},
+	"core:hobgoblin" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	},
+	"core:goblinWolfRider" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	},
+	"core:hobgoblinWolfRider" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	},
+	"core:orc" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	},
+	"core:orcChieftain" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	},
+	"core:ogre" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	},
+	"core:ogreMage" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	},
+	"core:roc" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	},
+	"core:thunderbird" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	},
+	"core:cyclop" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	},
+	"core:cyclopKing" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	},
+	"core:behemoth" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	},
+	"core:ancientBehemoth" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	}
 }

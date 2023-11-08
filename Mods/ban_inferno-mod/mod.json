@@ -1,35 +1,25 @@
 {
 	"name" : "Ban Inferno - Mod",
 	"description" : "Ban Inferno - Mod",
-"version":"0.0.1",
-"author":"Noname",
-"contact":"none",
-"modType":"Town",
-	"depends" :
-	[
-
-	],
+	"modType" : "Town",
+	"author" : "Noname",
+	"contact" : "none",
+	"version" : "0.0.1",
 	"factions" :
 	[
-"config/ban_inferno/ban Inferno Town.json",
-
+		"config/ban_inferno/ban Inferno Town.json"
 	],
-"creatures" :
+	"creatures" :
 	[
-"config/ban_inferno/Ban Inferno Creatures.json",
-
-	],
-"heroClasses" :
-	[
+		"config/ban_inferno/Ban Inferno Creatures.json"
 	],
 	"heroes" :
 	[
-"config/ban_inferno/Ban Inferno Heroes.json",
-
-        ],
-		"objects":
-		[
-"config/ban_inferno/Ban Inferno Dwellings.json",
-"config/ban_inferno/Ban Inferno Banks.json"	
-		]
+		"config/ban_inferno/Ban Inferno Heroes.json"
+	],
+	"objects" :
+	[
+	"config/ban_inferno/Ban Inferno Dwellings.json",
+	"config/ban_inferno/Ban Inferno Banks.json"
+	]
 }

@@ -1,23 +1,21 @@
 {
 	"core:creatureGeneratorCommon" : {
-
 		"types" : {
-			"airConflux" :       null,
-			"earthConflux" :     null,
-			"fireConflux" :      null,
-			"waterConflux" :     null,
-			"magicLantern" :     null,
-			"altarOfThought" :   null,
-			"pyre" :             null,
-			"altarOfAir" :       null,
-			"altarOfEarth" :     null,
-			"altarOfFire" :      null,
-			"altarOfWater" :    null,
+			"airConflux" : null,
+			"earthConflux" : null,
+			"fireConflux" : null,
+			"waterConflux" : null,
+			"magicLantern" : null,
+			"altarOfThought" : null,
+			"pyre" : null,
+			"altarOfAir" : null,
+			"altarOfEarth" : null,
+			"altarOfFire" : null,
+			"altarOfWater" : null
 		}
 	},
 	// subtype: unique special dwellings - golem factory and elemental conflux
 	"core:creatureGeneratorSpecial" : {
-
 		"types" : {
 			"elementalConflux" : null
 		}

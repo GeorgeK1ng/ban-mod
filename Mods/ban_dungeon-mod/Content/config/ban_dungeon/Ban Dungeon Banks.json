@@ -1,16 +1,12 @@
 {
 	"core:creatureBank" : {
-
 		"types" : {
 			"medusaStore" : null
-			}
-},
-"core:dragonUtopia" :  
-{
-	"types":{
-	"dragonUtopia" : null
+		}
+	},
+	"core:dragonUtopia" : {
+		"types" : {
+			"dragonUtopia" : null
+		}
 	}
-}
-
-
 }

@@ -1,6 +1,5 @@
 {
-	"core:inferno" :
-	{
-	"town" : null
-                         }
+	"core:inferno" : {
+		"town" : null
+	}
 }

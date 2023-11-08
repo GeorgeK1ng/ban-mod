@@ -1,6 +1,5 @@
 {
-	"core:conflux" :
-	{
-	"town" : null
-                         }
+	"core:conflux" : {
+		"town" : null
+	}
 }

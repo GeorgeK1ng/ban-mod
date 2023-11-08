@@ -1,14 +1,13 @@
 {
 	"core:creatureGeneratorCommon" : {
-
 		"types" : {
-			"behemothCrag" :   null,
-			"cyclopsCave" :      null,
-			"wolfPen" :          null,
-			"goblinBarracks" :   null,
-			"ogreFort" :         null,
-			"orcTower" :         null,
-			"cliffNest" :        null,
+			"behemothCrag" : null,
+			"cyclopsCave" : null,
+			"wolfPen" : null,
+			"goblinBarracks" : null,
+			"ogreFort" : null,
+			"orcTower" : null,
+			"cliffNest" : null
 		}
 	}
 }

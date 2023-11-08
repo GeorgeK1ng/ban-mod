@@ -1,6 +1,5 @@
 {
-	"core:stronghold" :
-	{
-	"town" : null
-                         }
+	"core:stronghold" : {
+		"town" : null
+	}
 }

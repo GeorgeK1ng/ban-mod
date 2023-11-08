@@ -1,8 +1,7 @@
 {
 	"core:creatureBank" : {
-
 		"types" : {
-			"cyclopsStockpile" :null,
-}
-}
+			"cyclopsStockpile" :null
+		}
+	}
 }

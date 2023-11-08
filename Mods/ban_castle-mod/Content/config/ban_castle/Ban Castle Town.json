@@ -1,6 +1,5 @@
 {
-	"core:castle" :
-	{
-	"town" : null
-                         }
+	"core:castle" : {
+		"town" : null
+	}
 }

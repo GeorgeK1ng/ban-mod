@@ -1,0 +1,18 @@
+{
+	"name" : "Ban Decorations - Mod",
+	"description" : "Ban Decorations - Mod",
+"version" : "0.0.1",
+"author" : "Noname",
+"contact" : "none",
+"modType" : "Town",
+	"depends" :
+	[
+
+	],
+ 
+		"objects":
+		[
+"config/ban_decorations/generic.json" 
+ 
+		]
+}

@@ -1,67 +1,72 @@
 {
-"core:gremlin":
-{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"core:masterGremlin":
-{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"core:stoneGargoyle":
-{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"core:obsidianGargoyle":
-{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"core:ironGolem":	
-{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"core:stoneGolem":{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"core:mage":{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"core:archMage":{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"core:genie":{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"core:masterGenie":{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"core:naga":{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"core:nagaQueen":{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"core:giant":{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"core:titan":{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"wog:lordofThunder":{
-"faction":"neutral",
-"special":true, "disabled":true
-}
+	"core:gremlin" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	},
+	"core:masterGremlin" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	},
+	"core:stoneGargoyle" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	},
+	"core:obsidianGargoyle" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	},
+	"core:ironGolem" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	},
+	"core:stoneGolem" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	},
+	"core:mage" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	},
+	"core:archMage" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	},
+	"core:genie" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	},
+	"core:masterGenie" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	},
+	"core:naga" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	},
+	"core:nagaQueen" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	},
+	"core:giant" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	},
+	"core:titan" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	}
 }

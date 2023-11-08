@@ -1,35 +1,25 @@
 {
 	"name" : "Ban Rampart - Mod",
 	"description" : "Ban Rampart - Mod",
-"version":"0.0.1",
-"author":"Noname",
-"contact":"none",
-"modType":"Town",
-	"depends" :
-	[
-
-	],
+	"modType" : "Town",
+	"author" : "Noname",
+	"contact" : "none",
+	"version" : "0.0.1",
 	"factions" :
 	[
-"config/ban_rampart/ban Rampart Town.json",
-
+		"config/ban_rampart/ban Rampart Town.json"
 	],
-"creatures" :
+	"creatures" :
 	[
-"config/ban_rampart/Ban Rampart Creatures.json",
-
-	],
-"heroClasses" :
-	[
+		"config/ban_rampart/Ban Rampart Creatures.json"
 	],
 	"heroes" :
 	[
-"config/ban_rampart/Ban Rampart Heroes.json",
-
-        ],
-		"objects":
-		[
-"config/ban_rampart/Ban Rampart Dwellings.json",
-"config/ban_rampart/Ban Rampart Banks.json"	
-		]
+		"config/ban_rampart/Ban Rampart Heroes.json"
+	],
+	"objects" :
+	[
+		"config/ban_rampart/Ban Rampart Dwellings.json",
+		"config/ban_rampart/Ban Rampart Banks.json"
+	]
 }

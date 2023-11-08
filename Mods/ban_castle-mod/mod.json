@@ -1,35 +1,25 @@
 {
 	"name" : "Ban Castle - Mod",
 	"description" : "Ban Castle - Mod",
-"version":"0.0.1",
-"author":"Noname",
-"contact":"none",
-"modType":"Town",
-	"depends" :
-	[
-
-	],
+	"modType" : "Town",
+	"author" : "Noname",
+	"contact" : "none",
+	"version" : "0.0.1",
 	"factions" :
 	[
-"config/ban_castle/ban Castle Town.json",
-
+		"config/ban_castle/ban Castle Town.json"
 	],
-"creatures" :
+	"creatures" :
 	[
-"config/ban_castle/Ban Castle Creatures.json",
-
-	],
-"heroClasses" :
-	[
+		"config/ban_castle/Ban Castle Creatures.json"
 	],
 	"heroes" :
 	[
-"config/ban_castle/Ban Castle Heroes.json",
-
-        ],
-		"objects":
-		[
-"config/ban_castle/Ban Castle Dwellings.json",
-"config/ban_castle/Ban Castle Banks.json"	
-		]
+		"config/ban_castle/Ban Castle Heroes.json"
+	],
+	"objects" :
+	[
+		"config/ban_castle/Ban Castle Dwellings.json",
+		"config/ban_castle/Ban Castle Banks.json"
+	]
 }

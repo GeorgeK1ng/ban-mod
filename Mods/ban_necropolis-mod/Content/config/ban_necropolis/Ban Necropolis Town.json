@@ -1,6 +1,5 @@
 {
-	"core:necropolis" :
-	{
-	"town" : null
-                         }
+	"core:necropolis" : {
+		"town" : null
+	}
 }

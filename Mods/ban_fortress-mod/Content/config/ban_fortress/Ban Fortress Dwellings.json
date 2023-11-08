@@ -1,14 +1,13 @@
 {
 	"core:creatureGeneratorCommon" : {
-
 		"types" : {
-			"basiliskPit" :     null,
-			"serpentFlyHive" :   null,
-			"gnollHut" :         null,
-			"gorgonLair" :       null,
-			"hydraPond" :        null,
-			"lizardDen" :        null,
-			"wyvernNest" :       null,
+			"basiliskPit" : null,
+			"serpentFlyHive" : null,
+			"gnollHut" : null,
+			"gorgonLair" : null,
+			"hydraPond" : null,
+			"lizardDen" : null,
+			"wyvernNest" : null
 		}
 	}
 }

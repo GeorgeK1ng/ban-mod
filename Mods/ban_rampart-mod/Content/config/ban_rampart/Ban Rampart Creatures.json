@@ -1,67 +1,72 @@
 {
-"core:centaur":
-{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"core:centaurCaptain":
-{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"core:dwarf":
-{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"core:battleDwarf":
-{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"core:woodElf":	
-{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"core:grandElf":{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"core:pegasus":{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"core:silverPegasus":{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"core:dendroidGuard":{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"core:dendroidSoldier":{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"core:unicorn":{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"core:warUnicorn":{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"core:greenDragon":{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"core:goldDragon":{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"wog:diamondDragon":{
-"faction":"neutral",
-"special":true, "disabled":true
-}
+	"core:centaur" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	},
+	"core:centaurCaptain" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	},
+	"core:dwarf" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	},
+	"core:battleDwarf" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	},
+	"core:woodElf" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	},
+	"core:grandElf" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	},
+	"core:pegasus" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	},
+	"core:silverPegasus" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	},
+	"core:dendroidGuard" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	},
+	"core:dendroidSoldier" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	},
+	"core:unicorn" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	},
+	"core:warUnicorn" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	},
+	"core:greenDragon" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	},
+	"core:goldDragon" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	}
 }

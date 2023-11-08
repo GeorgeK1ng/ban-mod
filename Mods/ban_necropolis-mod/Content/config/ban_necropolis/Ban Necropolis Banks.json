@@ -1,18 +1,12 @@
 {
-	
-"core:crypt" :  
-{
-	"types":{
-	"crypt" : null
+	"core:crypt" : {
+		"types" : {
+			"crypt" : null
+		}
+	},
+	"core:shipwreck" : {
+		"types" : {
+			"shipwreck" : null
+		}
 	}
-},
-"core:shipwreck" :  
-{
-	"types":{
-	"shipwreck" : null
-	}
-}
-	
-	
-
 }

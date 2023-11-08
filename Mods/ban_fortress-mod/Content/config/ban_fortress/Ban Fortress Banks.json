@@ -1,8 +1,7 @@
 {
 	"core:creatureBank" : {
-
 		"types" : {
-			"dragonFlyHive" :null,
-}
-}
+			"dragonFlyHive" :null
+		}
+	}
 }

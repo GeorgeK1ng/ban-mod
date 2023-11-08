@@ -1,8 +1,7 @@
 {
 	"core:derelictShip" : {
-
 		"types" : {
-	"derelictShip" :null,
-}
-}
+			"derelictShip" :null
+		}
+	}
 }

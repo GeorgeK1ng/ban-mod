@@ -1,67 +1,72 @@
 {
-"core:airElemental":
-{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"core:earthElemental":
-{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"core:fireElemental" :
-{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"core:waterElemental":
-{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"core:pixie":	
-{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"core:sprite":{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"core:psychicElemental" :{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"core:magicElemental":{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"core:iceElemental":{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"core:magmaElemental":{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"core:stormElemental" :{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"core:energyElemental":{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"core:firebird":{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"core:phoenix":{
-"faction":"neutral",
-"special":true, "disabled":true
-},
-"wog:sacredPhoenix":{
-"faction":"neutral",
-"special":true, "disabled":true
-}
+	"core:airElemental" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	},
+	"core:earthElemental" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	},
+	"core:fireElemental" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	},
+	"core:waterElemental" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	},
+	"core:pixie" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	},
+	"core:sprite" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	},
+	"core:psychicElemental" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	},
+	"core:magicElemental" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	},
+	"core:iceElemental" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	},
+	"core:magmaElemental" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	},
+	"core:stormElemental" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	},
+	"core:energyElemental" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	},
+	"core:firebird" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	},
+	"core:phoenix" : {
+		"faction" : "neutral",
+		"special" : true,
+		"disabled" : true
+	}
 }

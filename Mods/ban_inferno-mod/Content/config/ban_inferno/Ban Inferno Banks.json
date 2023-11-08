@@ -1,8 +1,7 @@
 {
 	"core:creatureBank" : {
-
 		"types" : {
-			"inpCache" :  null,
-}
-}
+			"inpCache" : null
+		}
+	}
 }

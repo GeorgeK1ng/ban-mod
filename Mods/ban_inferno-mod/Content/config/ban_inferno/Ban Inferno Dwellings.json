@@ -1,14 +1,13 @@
 {
 	"core:creatureGeneratorCommon" : {
-
 		"types" : {
-			"forsakenPalace" :  null,
-			"fireLake" :         null,
-			"hallOfSins" :       null,
-			"kennels" :         null,
-			"impCrucible" :     null,
-			"demonGate" :       null,
-			"hellHole" :         null,
+			"forsakenPalace" : null,
+			"fireLake" : null,
+			"hallOfSins" : null,
+			"kennels" : null,
+			"impCrucible" : null,
+			"demonGate" : null,
+			"hellHole" : null
 		}
 	}
 }

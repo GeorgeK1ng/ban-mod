@@ -1,35 +1,25 @@
 {
 	"name" : "Ban Fortress - Mod",
 	"description" : "Ban Fortress - Mod",
-"version":"0.0.1",
-"author":"Noname",
-"contact":"none",
-"modType":"Town",
-	"depends" :
-	[
-
-	],
+	"modType" : "Town",
+	"author" : "Noname",
+	"contact" : "none",
+	"version" : "0.0.1",
 	"factions" :
 	[
-"config/ban_fortress/ban Fortress Town.json",
-
+		"config/ban_fortress/ban Fortress Town.json"
 	],
-"creatures" :
+	"creatures" :
 	[
-"config/ban_fortress/Ban Fortress Creatures.json",
-
-	],
-"heroClasses" :
-	[
+		"config/ban_fortress/Ban Fortress Creatures.json"
 	],
 	"heroes" :
 	[
-"config/ban_fortress/Ban Fortress Heroes.json",
-
-        ],
-		"objects":
-		[
-"config/ban_fortress/Ban Fortress Dwellings.json",
-"config/ban_fortress/Ban Fortress Banks.json"	
-		]
+		"config/ban_fortress/Ban Fortress Heroes.json"
+	],
+	"objects" :
+	[
+		"config/ban_fortress/Ban Fortress Dwellings.json",
+		"config/ban_fortress/Ban Fortress Banks.json"
+	]
 }

@@ -1,6 +1,5 @@
 {
-	"core:fortress" :
-	{
-	"town" : null
-                         }
+	"core:fortress" : {
+		"town" : null
+	}
 }

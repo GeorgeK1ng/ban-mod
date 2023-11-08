@@ -1,0 +1,289 @@
+{
+	/// These are objects that covered by concept of "configurable object"
+	/// Most or even all of their configuration located in this file
+"core:magicSpring" : {//magic source
+ 
+		"types" : {
+			"magicSpring":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+		}
+	},
+
+"core:mysticalGarden" : {
+ 
+		"types" : {
+			"mysticalGarden":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+		}
+	},
+"core:windmill" :{
+ 
+		"types" : {
+			"windmill":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+		}
+	},
+"core:waterWheel" : {
+ 
+		"types" : {
+			"waterWheel" :{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+		}
+	},
+	
+"core:leanTo" :{
+ 
+		"types" : {
+			"leanTo":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+		}
+	},
+"core:corpse" :{
+ 
+		"types" : {
+			"corpse":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+		}
+	},
+"core:wagon" :{
+ 
+		"types" : {
+			"wagon":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+		}
+	},
+"core:warriorTomb" : {
+ 
+		"types" : {
+			"warriorTomb" :{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+		}
+	},
+
+	// "campfire" :{
+ 
+		// "types" : {
+			// "object" : {
+				// "index" : 0,
+				// "aiValue" : 2000,
+				// "rmg" : {
+					// "value"		: 2000,
+					// "rarity"	: 500
+				// }
+			// }
+		// }
+	// },
+	// "flotsam" :{
+		// "index" : 29,
+		// "handler" : "pickable",
+		// "base" : {
+			// "sounds" : {
+				// "visit" : ["GENIE"],
+				// "removal" : [ "PICKUP01", "PICKUP02", "PICKUP03", "PICKUP04", "PICKUP05", "PICKUP06", "PICKUP07" ]
+			// }
+		// },
+		// "types" : {
+			// "object" : {
+				// "index" : 0,
+				// "aiValue" : 2000,
+				// "rmg" : {
+					// "value"		: 2000,
+					// "rarity"	: 100
+				// }
+			// }
+		// }
+	// },
+	// "seaChest" :{
+		// "index" : 82,
+		// "handler" : "pickable",
+		// "base" : {
+			// "sounds" : {
+				// "visit" : ["CHEST"],
+				// "removal" : [ "PICKUP01", "PICKUP02", "PICKUP03", "PICKUP04", "PICKUP05", "PICKUP06", "PICKUP07" ]
+			// }
+		// },
+		// "types" : {
+			// "object" : {
+				// "index" : 0,
+				// "aiValue" : 1500,
+				// "rmg" : {
+					// "value"		: 1500,
+					// "rarity"	: 500
+				// }
+			// }
+		// }
+	// },
+	// "shipwreckSurvivor" : {
+		// "index" : 86,
+		// "handler" : "pickable",
+		// "base" : {
+			// "sounds" : {
+				// "visit" : ["TREASURE"],
+				// "removal" : [ "PICKUP01", "PICKUP02", "PICKUP03", "PICKUP04", "PICKUP05", "PICKUP06", "PICKUP07" ]
+			// }
+		// },
+		// "types" : {
+			// "object" : {
+				// "index" : 0,
+				// "aiValue" : 1500,
+				// "rmg" : {
+					// "value"		: 1500,
+					// "rarity"	: 50
+				// }
+			// }
+		// }
+	// },
+	 "core:treasureChest" : {
+				"types" : {
+			"treasureChest":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+		}
+	 },
+
+"core:arena" : {
+ 
+		"types" : {
+			"arena":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+		}
+	},
+"core:marlettoTower" : {
+ 
+		"types" : {
+			"marlettoTower":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+		}
+	},
+"core:gardenOfRevelation" : {
+ 
+		"types" : {
+			"gardenOfRevelation":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+		}
+	},
+"core:libraryOfEnlightenment" : {
+ 
+		"types" : {
+			"libraryOfEnlightenment":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+		}
+	},
+"core:mercenaryCamp" : {
+ 
+		"types" : {
+			"mercenaryCamp":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+		}
+	},
+"core:starAxis" :{
+ 
+		"types" : {
+			"starAxis":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+		}
+	},
+"core:treeOfKnowledge" : {
+ 
+		"types" : {
+			"treeOfKnowledge":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+		}
+	},
+"core:schoolOfMagic" : {
+ 
+		"types" : {
+			"schoolOfMagic":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+		}
+	},
+"core:schoolOfWar" : {
+ 
+		"types" : {
+			"schoolOfWar":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+		}
+	},
+"core:learningStone" : {
+ 
+		"types" : {
+			"learningStone":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+		}
+	},
+
+	 //"core:buoy" : {
+		// "index" : 11,
+		// "handler" : "bonusingObject",
+		// "base" : {
+			// "sounds" : {
+				// "ambient" : ["LOOPBUOY"],
+				// "visit" : ["MORALE"]
+			// }
+		// },
+		 //"types" : {
+			 //"buoy" : {
+				// "index" : 0,
+				// "aiValue" : 100,
+				// "rmg" : {
+					// "value"		: 100,
+					// "rarity"	: 100
+				// }
+			// }
+		// }
+	// },
+"core:swanPond" : {
+ 
+		"types" : {
+			"swanPond":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+		}
+	},
+"core:faerieRing" : {
+ 
+		"types" : {
+			"faerieRing":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+		}
+	},
+"core:fountainOfFortune" : {
+ 
+		"types" : {
+			"fountainOfFortune":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+		}
+	},
+"core:fountainOfYouth" : {
+ 
+		"types" : {
+			"fountainOfYouth":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+		}
+	},
+"core:idolOfFortune" : {
+ 
+		"types" : {
+			"idolOfFortune":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+		}
+	},
+"core:mermaids" : {
+ 
+		"types" : {
+			"mermaids" :{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+		}
+	},
+"core:oasis" : {
+ 
+		"types" : {
+			"oasis":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+		}
+	},
+"core:stables" : {
+ 
+		"types" : {
+			"stables":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+		}
+	},
+"core:temple" : {
+ 
+		"types" : {
+			"temple":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+		}
+	},
+"core:rallyFlag" : {
+ 
+		"types" : {
+			"rallyFlag":{"rmg":{"zoneLimit" : 0,"mapLimit" : 0},"templates":null }
+		}
+	},
+	// "wateringHole" : {//waters
+ 
+		// "types" : {
+			// "object" : {
+				// "index" : 0,
+				// "aiValue" : 500,
+				// "rmg" : {
+					// "zoneLimit"	: 1,
+					// "value"		: 500,
+					// "rarity"	: 50
+				// }
+			// } 
+		// }
+	// }
+}

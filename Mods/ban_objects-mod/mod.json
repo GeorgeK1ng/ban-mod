@@ -1,0 +1,19 @@
+{
+	"name" : "Ban Objects - Mod",
+	"description" : "Ban Objects - Mod",
+"version" : "0.0.1",
+"author" : "Noname",
+"contact" : "none",
+"modType" : "Town",
+	"depends" :
+	[
+
+	],
+ 
+		"objects":
+		[
+"config/ban_objects/generic.json",
+"config/ban_objects/moddables.json"	,
+"config/ban_objects/rewardable.json"	
+		]
+}

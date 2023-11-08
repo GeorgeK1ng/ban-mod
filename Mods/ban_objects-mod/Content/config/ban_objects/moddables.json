@@ -81,8 +81,56 @@
 			// "black" :  { "index" : 7 }
 		// }
 	// },
+	"core:dragonUtopia" : {
+		"types" : {
+			"dragonUtopia" : {
+				"rmg" : {
+					"zoneLimit" : 0
+				}
+			}
+		}
+	},
+	"core:creatureBank" : {
+		"types" : {
+			"cyclopsStockpile" : {
+				"rmg" : {
+					"zoneLimit" : 0
+				}
+			},
+			"dragonFlyHive" : {
+				"rmg" : {
+					"zoneLimit" : 0
+				}
+			},
+			"dwarvenTreasury" : {
+				"rmg" : {
+					"zoneLimit" : 0
+				}
+			},
+			"griffinConservatory" : {
+				"rmg" : {
+					"zoneLimit" : 0
+				}
+			},
+			"inpCache" : {
+				"rmg" : {
+					"zoneLimit" : 0
+				}
+			},
+			"medusaStore" : {
+				"rmg" : {
+					"zoneLimit" : 0
+				}
+			},
+			"nagaBank" : {
+				"rmg" : {
+					"zoneLimit" : 0
+				}
+			}
+		}
+	},
 	//Seer Hut object is set off bottom-right corner, need to fix that
-"core:seerHut" : {
+	"core:seerHut" : {
  
 		"types" : {
 			"0" :	{"rmg":{"zoneLimit" : 0,"mapLimit" : 0 }

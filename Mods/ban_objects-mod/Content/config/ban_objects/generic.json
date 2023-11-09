@@ -53,9 +53,7 @@
 	},
 	"core:subterraneanGate" : {
 		"types" : {
-			"object":{
-				//"rmg" : { "zoneLimit" : 0, "mapLimit" : 0 },
-				"templates" : null }
+			"object" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
 	"core:refugeeCamp" : {
@@ -70,17 +68,17 @@
 	},
 	"core:shrineOfMagicLevel1" : {
 		"types" : {
-			"core:shrineOfMagicLevel1" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
+			"shrineOfMagicLevel1" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
 	"core:shrineOfMagicLevel2" : {
 		"types" : {
-			"core:shrineOfMagicLevel2" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
+			"shrineOfMagicLevel2" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
 	"core:shrineOfMagicLevel3" : {
 		"types" : {
-			"core:shrineOfMagicLevel3" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
+			"shrineOfMagicLevel3" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
 	"core:eyeOfTheMagi" : {
@@ -100,9 +98,7 @@
 	},
 	"core:scholar" : {
 		"types" : {
-			"scholar" : {//"rmg" : { "zoneLimit" : 0, "mapLimit" : 0 },
-				"templates" : null
-			}
+			"scholar" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
 	},
 	"core:shipyard" : {
@@ -160,12 +156,12 @@
 		"types" : {
 			"object" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
 		}
+	},
+	"core:obelisk" : {
+		"types" : {
+			"object" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
+		}
 	}
-	// "core:obelisk" : {
-	// 	"types" : {
-	// 		"object" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
-	// 	}
-	// },
 	// "core:oceanBottle" : {
 	// 	"types" : {
 	// 		"object" : {

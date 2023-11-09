@@ -19,13 +19,13 @@
 	"core:seerHut" : {
 		"types" : {
 			"0" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }
-			//,"templates" :null
+			//,"templates" : null
 			},
 			"1" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }
-			//,"templates" :null
+			//,"templates" : null
 			},
 			"2" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }
-			//,"templates" :null
+			//,"templates" : null
 			}
 		}
 	},

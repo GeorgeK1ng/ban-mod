@@ -54,8 +54,8 @@
 	"core:subterraneanGate" : {
 		"types" : {
 			"object":{
-				//"rmg":{"zoneLimit" : 0,"mapLimit" : 0},
-				"templates":null }
+				//"rmg" : { "zoneLimit" : 0, "mapLimit" : 0 },
+				"templates" : null }
 		}
 	},
 	"core:refugeeCamp" : {
@@ -100,8 +100,8 @@
 	},
 	"core:scholar" : {
 		"types" : {
-			"scholar" : {//"rmg":{"zoneLimit" : 0,"mapLimit" : 0},
-				"templates":null
+			"scholar" : {//"rmg" : { "zoneLimit" : 0, "mapLimit" : 0 },
+				"templates" : null
 			}
 		}
 	},
@@ -169,8 +169,6 @@
 	// "core:oceanBottle" : {
 	// 	"types" : {
 	// 		"object" : {
-	// 			"index" : 0,
-	// 			"aiValue" : 0,
 	// 			"rmg" : {
 	// 			}
 	// 		}
@@ -179,7 +177,6 @@
 	// "whirlpool" : {
 	// 	"types" : {
 	// 		"object" : {
-	// 			"index" : 0,
 	// 			"rmg" : {
 	// 			}
 	// 		}

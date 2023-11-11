@@ -5,7 +5,11 @@
 	"author" : "Noname",
 	"contact" : "none",
 	"version" : "0.0.1",
-	"objects":
+	"artifacts" :
+	[
+		"config/ban_objects/artifacts.json"
+	],
+	"objects" :
 	[
 		"config/ban_objects/generic.json",
 		"config/ban_objects/moddables.json",

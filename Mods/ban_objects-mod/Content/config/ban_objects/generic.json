@@ -1,0 +1,181 @@
+{
+	// These are objects that can not be configured, either due to
+	// their hardcoded status or because they don't have any configurable functionality
+	"core:prison" : {
+		"types" : {
+			"prison" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
+		}
+	},
+	"core:altarOfSacrifice" : {
+		"types" : {
+			"object" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
+		}
+	},
+	"core:tradingPost" : {
+		"types" : {
+			"object" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
+		}
+	},
+	"core:tradingPostDUPLICATE" : {
+		"types" : {
+			"object" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
+		}
+	},
+	"core:freelancersGuild" : {
+		"types" : {
+			"object" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
+		}
+	},
+	"core:blackMarket" : {
+		"types" : {
+			"object" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
+		}
+	},
+	"core:pandoraBox" : {
+		"types" : {
+			"object" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
+		}
+	},
+	"core:redwoodObservatory" : {
+		"types" : {
+			"redwoodObservatory" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
+		}
+	},
+	"core:pillarOfFire" : {
+		"types" : {
+			"pillarOfFire" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
+		}
+	},
+	"core:coverOfDarkness" : {
+		"types" : {
+			"coverOfDarkness" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
+		}
+	},
+	"core:subterraneanGate" : {
+		"types" : {
+			"object" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
+		}
+	},
+	"core:refugeeCamp" : {
+		"types" : {
+			"object" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
+		}
+	},
+	"core:warMachineFactory" : {
+		"types" : {
+			"object" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
+		}
+	},
+	"core:shrineOfMagicLevel1" : {
+		"types" : {
+			"shrineOfMagicLevel1" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
+		}
+	},
+	"core:shrineOfMagicLevel2" : {
+		"types" : {
+			"shrineOfMagicLevel2" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
+		}
+	},
+	"core:shrineOfMagicLevel3" : {
+		"types" : {
+			"shrineOfMagicLevel3" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
+		}
+	},
+	"core:eyeOfTheMagi" : {
+		"types" : {
+			"object" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
+		}
+	},
+	"core:hutOfTheMagi" : {
+		"types" : {
+			"object" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
+		}
+	},
+	"core:lighthouse" : {
+		"types" : {
+			"object" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
+		}
+	},
+	"core:scholar" : {
+		"types" : {
+			"scholar" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
+		}
+	},
+	"core:shipyard" : {
+		"types" : {
+			"object" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
+		}
+	},
+	"core:sign" : {
+		"types" : {
+			"object" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
+		}
+	},
+	"core:sirens" : {
+		"types" : {
+			"object" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
+		}
+	},
+	"core:denOfThieves" : {
+		"types" : {
+			"object" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
+		}
+	},
+	"core:university" : {
+		"types" : {
+			"object" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
+		}
+	},
+	"core:witchHut" : {
+		"types" : {
+			"witchHut" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
+		}
+	},
+	"core:questGuard" : {
+		"types" : {
+			"object" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
+		}
+	},
+	"core:magicWell" : {
+		"types" : {
+			"magicWell" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
+		}
+	},
+	/// Classes without dedicated object
+	"core:hillFort" : {
+		"types" : {
+			"object" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
+		}
+	},
+	"core:tavern" : {
+		"types" : {
+			"object" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
+		}
+	},
+	"core:sanctuary" : {
+		"types" : {
+			"object" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
+		}
+	},
+	"core:obelisk" : {
+		"types" : {
+			"object" : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 }, "templates" : null }
+		}
+	}
+	// "core:oceanBottle" : {
+	// 	"types" : {
+	// 		"object" : {
+	// 			"rmg" : {
+	// 			}
+	// 		}
+	// 	}
+	// },
+	// "whirlpool" : {
+	// 	"types" : {
+	// 		"object" : {
+	// 			"rmg" : {
+	// 			}
+	// 		}
+	// 	}
+	// },
+}

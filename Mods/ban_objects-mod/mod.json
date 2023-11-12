@@ -1,0 +1,19 @@
+{
+	"name" : "Ban Objects - Mod",
+	"description" : "Ban Objects - Mod",
+	"modType" : "Town",
+	"author" : "Noname",
+	"contact" : "none",
+	"version" : "0.0.1",
+	"keepDisabled" : true, // RMG will crash if artifacts are disabled
+	"artifacts" :
+	[
+		"config/ban_objects/artifacts.json"
+	],
+	"objects" :
+	[
+		"config/ban_objects/generic.json",
+		"config/ban_objects/moddables.json",
+		"config/ban_objects/rewardable.json"
+	]
+}

@@ -1,7 +1,7 @@
 {
 	"core:creatureBank" : {
 		"types" : {
-			"inpCache" : null
+			"impCache" : null
 		}
 	}
 }

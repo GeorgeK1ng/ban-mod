@@ -17,7 +17,7 @@
 			"dragonFlyHive"			 : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 } },
 			"dwarvenTreasury"		 : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 } },
 			"griffinConservatory"	 : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 } },
-			"inpCache"				 : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 } },
+			"impCache"				 : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 } },
 			"medusaStore"			 : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 } },
 			"nagaBank"				 : { "rmg" : { "zoneLimit" : 0, "mapLimit" : 0 } }
 		}
